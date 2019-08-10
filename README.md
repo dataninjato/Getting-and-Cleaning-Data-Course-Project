@@ -2,7 +2,6 @@
 title: "Readme"
 author: "marcopolo88"
 date: "8/8/2019"
-output: html_document
 ---
 
 # Getting and Cleaning Data Course Project
@@ -25,7 +24,7 @@ Create one R script called run_analysis.R that does the following:
 -Run script</br>
 ```
 run_analysis.R
-```</br>
+```
 -Please consult Codebook.md for the data columns</br>
 
 ## Requirements

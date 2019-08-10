@@ -2,7 +2,6 @@
 title: "Codebook"
 author: "marcopolo88"
 date: "8/8/2019"
-output: html_document
 ---
 
 # Original Dataset CodeBook Section
@@ -89,7 +88,8 @@ tBodyGyroJerkMean<br />
 
 ## Measurements
 
-86 `numeric` type variables with `mean` values arranged by test subject and activity in the tidied data set
+86 `numeric` type variables with `mean` values arranged by test subject and activity in the tidied data set<br />
+the original set had already normalized data so there are no units to consider
 
 "Mean.timeBodyAcc-mean()-X"<br />
 "Mean.timeBodyAcc-mean()-Y"<br />
