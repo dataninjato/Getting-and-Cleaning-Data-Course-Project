@@ -4,7 +4,10 @@
 #date: "8/8/2019"
 #output: R & files
 #---
-    
+
+library(readr)
+library(data.table)
+
 #  1. Merges the training and the test sets to create one data set.
 
 trainsub <- read.table('UCI HAR Dataset\\train\\subject_train.txt')

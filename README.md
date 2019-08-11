@@ -31,5 +31,6 @@ run_analysis.R
 
 ```
 R 3.6.0
-no library is required
+library data.table
+library readr
 ```
